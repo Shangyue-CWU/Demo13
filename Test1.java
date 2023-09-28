@@ -10,4 +10,9 @@ public class TestSuite {
 }
 public class Cat{
     private String Name;
+    private int Age;
+
+    public Cat(){
+
+    }
 }
