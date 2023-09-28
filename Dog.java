@@ -1,0 +1,18 @@
+
+public class TestSuite {
+	public static void main(String[] args) {
+        System.out.println("Hello, Dog!");
+
+        
+    }
+
+	
+}
+public class Dog{
+    private String Name;
+    private int Age;
+
+    public Dog(){
+
+    }
+}
