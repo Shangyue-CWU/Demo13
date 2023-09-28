@@ -10,11 +10,12 @@ public class TestSuite {
 
 	
 }
-public class Dog{
+public class SuperDog{
     private String Name;
     private int Age;
 
-    public Dog(){
+    public SuperDog(String name){
+        this.name = Name;
 	    
 
     }
