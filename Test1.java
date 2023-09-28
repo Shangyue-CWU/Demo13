@@ -12,8 +12,13 @@ public class Cat{
     private String Name;
     private int Age;
 
-    public Cat(){
+    public Cat(String Name, int Age){
+        this.Name = Name;
+        this.Age = Age;
 
+    }
+    public String getName(){
+        return Name;
     }
     public String toString(){
         return "back";
