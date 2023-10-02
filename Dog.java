@@ -23,5 +23,6 @@ public class SuperDog{
     public void bark(){
         System.out.println("SuperDog!");
         System.out.println("Some branch!");
+        System.out.println("haha branch!");
     }
 }
